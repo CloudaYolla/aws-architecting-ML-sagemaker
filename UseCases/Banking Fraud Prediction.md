@@ -39,9 +39,8 @@ For your feature engineering, consider the following stpes:
 ## Starter Code
 - https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/xgboost_customer_churn/xgboost_customer_churn.ipynb 
     This is a great starter example for beginners! 
-- Starter-Code/Multithreaded_Ensemble_Modeling.ipynb
-    This is an advanced solution
-
+- This is a very similar example : https://sagemaker-examples.readthedocs.io/en/latest/introduction_to_applying_machine_learning/xgboost_customer_churn/xgboost_customer_churn.html
+    
 # References
 
 * Paper introducing your simulated data set
