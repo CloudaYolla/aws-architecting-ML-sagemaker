@@ -1,7 +1,12 @@
 # Banking Fraud
-Every year, billions of banking transactions occur in the United States. While only a small portion of those are fraudulent, the results can be devastating is a fraudulent transaction is not discovered. Costs include damage to the customer, to the company, and to regulator agencies tasked with confirming validity of payments. 
+Every year, billions of banking transactions occur. While only a small portion of those are fraudulent, the results can be devastating is a fraudulent transaction is not discovered. Costs include damage to the customer, to the company, and to regulator agencies tasked with confirming validity of payments. 
+
 
 ## Fraud Detection 
+You work for a multinational bank. There has been a significant increase in the number of customers experiencing credit card fraud over the last few months. A major news outlet even recently published a story about the credit card fraud you and other banks are experiencing.
+
+As a response to this situation, you have been tasked to solve part of this problem by leveraging machine learning to identify fraudulent credit card transactions before they have a larger impact on your company. You have been given access to a dataset of past credit card transactions, which you can use to train a machine learning model to predict if transactions are fraudulent or not.
+
 Today, your task is to design a system capable of automatically catching fraudulent transactions. You will have a variety of approaches to evaluate. You will have labeled data, so you can design a classification approach. Your challenge will be finding the right model, or combinations of models, that detect the most fraudulent transactions. 
 
 ## Your Data
