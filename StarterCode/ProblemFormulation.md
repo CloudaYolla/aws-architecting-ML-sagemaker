@@ -10,6 +10,9 @@ Start this project off by writing a few sentences below that summarize the busin
 ### 2. Formulate the business problem, success metrics, and desired ML output.
 \# Write your answer here
 
+![ML Logo](../images/fraud-success-metrics.png "Logo") 
+
+
 ### 3. Identify the type of ML problem you’re dealing with.
 \# Write your answer here
 
