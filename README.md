@@ -42,7 +42,7 @@ This course is designed for Python developers primarily. But since it is group-b
 - Go through a sample lab
 - Break into teams and focus on a new machine learning project
 - First Goal: Download your dataset to an S3 bucket, create a SageMaker Studio domain, and load your data into a Pandas dataframe.
-
+- Second Goal: Use AutoPilot do AutoML for you.
 
 **Day Two:**
 
